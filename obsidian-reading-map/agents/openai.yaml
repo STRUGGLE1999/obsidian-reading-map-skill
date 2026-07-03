@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian 读书导图"
+  short_description: "将 Obsidian 批注整理为 XMind 导图"
+  default_prompt: "Use $obsidian-reading-map to turn this Obsidian book-highlight Markdown into an XMind-importable OPML review mind map."
